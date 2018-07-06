@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project II</string>
+    <string name="slogan">Nhanh Đẹp Còn Xem World Cup</string>
+    <string name="title_activity_home">Home</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <!--validate:-->
+    <string name="phone_is_exist">Phone is exist. Please enter new Phone Number</string>
+    <string name="password_do_not_match">Password do not match</string>
+    <string name="validate_phone">Phone number is not valid</string>
+    <string name="validate_email">Email is not valid</string>
+    <string name="validate_name">Name is not valid</string>
+    <string name="validate_password">Password is not valid</string>
+</resources>

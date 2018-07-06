@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="ExpandedAppBar" parent="@android:style/TextAppearance.Material.Title">
+        <item name="android:textSize">18sp</item>
+        <item name="android:textColor">#ff5a00</item>
+        <item name="android:textStyle">bold|italic</item>
+    </style>
+
+</resources>
